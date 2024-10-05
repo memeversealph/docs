@@ -1,6 +1,6 @@
 # MemeFun
 
-MemeFun is a significant application within the MemeVerse Infinity ecosystem. It is an innovative fair launch platform designed to provide community members with more convenient ways to create and trade.
+[MemeFun](https://memefun.cc) is a significant application within the MemeVerse Infinity ecosystem. It is an innovative fair launch platform designed to provide community members with more convenient ways to create and trade.
 
 ## Platform features&#x20;
 
@@ -17,10 +17,3 @@ MemeFun is a significant application within the MemeVerse Infinity ecosystem. It
 ## Creator Rewards
 
 * **Token Rewards:** Token creators will receive 5% of their project’s total supply as a reward.
-
-
-
-
-
-
-

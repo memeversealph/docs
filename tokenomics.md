@@ -23,9 +23,15 @@ Supports liquidity on decentralized exchanges to ensure smooth token trading.
 
 Used to incentivize active community members, game players, and stakers, driving ecosystem engagement.
 
-#### Early contributors (15% | 15,000,000):
+#### Early Contributors (15% | 15,000,000):
 
-Allocated to DAO members and developers involved in the early stages of the project to reward their contributions. To align with the project’s long-term development, these tokens will be gradually released through a linear unlocking method over one and a half years (78 weeks).\
+Allocated to DAO members and developers involved in the early stages of the project to reward their contributions. To align with the project’s long-term development, these tokens will be released through a linear unlocking mechanism over 5 years.
+
+• 50% of the tokens will be linearly unlocked over the first two years.
+
+• The next 25% will be unlocked at half the rate over the following two years.
+
+• The final 25% will be fully unlocked in the last year.\
 
 
 #### Marketing and partnerships (10% | 10,000,000);
